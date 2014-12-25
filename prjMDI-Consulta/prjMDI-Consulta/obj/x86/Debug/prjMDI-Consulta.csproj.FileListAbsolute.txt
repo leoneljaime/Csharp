@@ -1,0 +1,9 @@
+c:\users\leonel\documents\visual studio 2013\Projects\prjMDI-Consulta\prjMDI-Consulta\bin\x86\Debug\prjMDI-Consulta.exe
+c:\users\leonel\documents\visual studio 2013\Projects\prjMDI-Consulta\prjMDI-Consulta\bin\x86\Debug\prjMDI-Consulta.pdb
+c:\users\leonel\documents\visual studio 2013\Projects\prjMDI-Consulta\prjMDI-Consulta\obj\x86\Debug\prjMDI_Consulta.FrmCliente.resources
+c:\users\leonel\documents\visual studio 2013\Projects\prjMDI-Consulta\prjMDI-Consulta\obj\x86\Debug\prjMDI_Consulta.FrmConsulta.resources
+c:\users\leonel\documents\visual studio 2013\Projects\prjMDI-Consulta\prjMDI-Consulta\obj\x86\Debug\prjMDI_Consulta.FrmMDI.resources
+c:\users\leonel\documents\visual studio 2013\Projects\prjMDI-Consulta\prjMDI-Consulta\obj\x86\Debug\prjMDI_Consulta.Properties.Resources.resources
+c:\users\leonel\documents\visual studio 2013\Projects\prjMDI-Consulta\prjMDI-Consulta\obj\x86\Debug\prjMDI-Consulta.csproj.GenerateResource.Cache
+c:\users\leonel\documents\visual studio 2013\Projects\prjMDI-Consulta\prjMDI-Consulta\obj\x86\Debug\prjMDI-Consulta.exe
+c:\users\leonel\documents\visual studio 2013\Projects\prjMDI-Consulta\prjMDI-Consulta\obj\x86\Debug\prjMDI-Consulta.pdb
